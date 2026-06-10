@@ -91,4 +91,3 @@ uvicorn app:app --reload
 ## Notes
 
 Этот проект демонстрирует production-style recommendation API с model-based ranking, feature enrichment и A/B testing logic.
-````
